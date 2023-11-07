@@ -7,6 +7,5 @@ public class hm1 {
         double a = 24.789;
         int b = (int)a;
         System.out.println(b);
-
     }
 }
