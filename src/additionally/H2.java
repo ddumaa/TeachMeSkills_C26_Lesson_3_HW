@@ -26,6 +26,8 @@ public class H2 {
                 int r = scanner.nextInt();
                 System.out.println("The area of the сircle is: " + 3.14 * (r * r));
                 break;
+            default:
+                System.out.println("incorrect input");
         }
     }
 }
