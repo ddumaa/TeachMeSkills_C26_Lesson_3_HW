@@ -1,5 +1,4 @@
 package additionally;
-
 import java.util.Scanner;
 //This program calculates the area of a rectangle, triangle, circle.
 public class H2 {

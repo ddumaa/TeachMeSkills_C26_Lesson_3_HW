@@ -1,5 +1,4 @@
 package additionally;
-
 import java.util.Scanner;
 //fibonacci numbers
 public class H1 {
