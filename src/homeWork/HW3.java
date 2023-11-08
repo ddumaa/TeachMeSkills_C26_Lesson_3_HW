@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //Exercise 3
 
-public class hm3 {
+public class HW3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("enter the number");

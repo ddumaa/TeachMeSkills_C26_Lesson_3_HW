@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //Exercise 4
 
-public class hm4 {
+public class HW4 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("enter the temperature");
